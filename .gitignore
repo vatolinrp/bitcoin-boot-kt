@@ -1,6 +1,8 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
+lib
+out
 
 ### Eclipse ###
 .apt_generated
